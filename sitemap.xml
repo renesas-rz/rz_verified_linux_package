@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://renesas-rz.github.io/rz_verified_linux_package/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://renesas-rz.github.io/rz_verified_linux_package/evk/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://renesas-rz.github.io/rz_verified_linux_package/evk/_components/rz-g2l-evk/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://renesas-rz.github.io/rz_verified_linux_package/evk/_components/rz-g3e-evk/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://renesas-rz.github.io/rz_verified_linux_package/guidelines/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://renesas-rz.github.io/rz_verified_linux_package/guidelines/_components/image/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://renesas-rz.github.io/rz_verified_linux_package/history/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://renesas-rz.github.io/rz_verified_linux_package/list_of_vlp_versions/_components/__front_matter/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+</urlset>
