@@ -3,6 +3,9 @@
 Renesas provides the basic software required for the industrial segment as the verified software package. Renesas also provides the multimedia package for installing H.264/H.265 Video codec and graphics (OpenGL ES) function into the RZ MPU BSP (Board Support Package).
 Please go to the page from the link that indicates the version of VLP in the table below, download the package and use it.
 
+!!! note
+    The VLP for RZ/G3E is scheduled to be added in the second half of 2026. Until then, please use [the RZ/G3E Board Support Package v1.0.0](https://www.renesas.com/en/software-tool/rzg3e-board-support-package).
+
 {{ read_csv('docs/list_of_vlp_versions/_tables/basic_table.csv') }}
 
 !!! note
