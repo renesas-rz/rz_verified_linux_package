@@ -1,0 +1,6 @@
+﻿VLP Version,CIP Kernel Version,"RZ/T2H,RZ/N2H","RZ/G2L,RZ/G2LC, RZ/G2UL,RZ/G3S","RZ/G2H,RZ/G2M, RZ/G2N,RZ/G2E","RZ/G1H,RZ/G1M, RZ/G1N,RZ/G1E,RZ/G1C",VLP maintenance end date
+[VLP v5](https://www.renesas.com/en/software-tool/rz-mpu-verified-linux-package-612-cip),"6.12, 6.12-rt",✓,-,-,-,2035/2H
+[VLP v4](https://www.renesas.com/en/software-tool/rz-mpu-verified-linux-package-61-cip),"6.1, 6.1-rt",-,✔,-,-,2033/2H
+[VLP v3](https://www.renesas.com/en/software-tool/rzg-verified-linux-package-cip),"5.10, 5.10-rt",-,✔,✔,✔,2031/1H
+[VLP64](https://www.renesas.com/en/software-tool/rzg-verified-linux-package-64-bit-kernel-419-cip),"4.19, 4.19-rt",-,-,✔,-,2029/1H
+[VLP v2](https://www.renesas.com/en/software-tool/rzg-verified-linux-package-44-cip),"4.4, 4.4-rt",-,-,-,✔,2027/1H
