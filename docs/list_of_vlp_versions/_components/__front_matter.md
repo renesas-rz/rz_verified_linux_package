@@ -21,6 +21,10 @@ This package is to add Security functions (Secure Boot, Trusted Execution Enviro
 - [**RZ Multi-OS Package**](https://www.renesas.com/software-tool/rz-multi-os-package)  
 This package is the software package consisting of RZ/G Flexible Software Package (FSP) as software package for Renesas MCU with Arm® Cortex-M Core and OpenAMP as standardization API of framework for interprocessor communication for developing multi OS solution.
 
+- [**RZ/G3E Ethos Support Package**](https://renesas-rz.github.io/rz-ethos-u-docs/)  
+The RZ/G3E Ethos package supports deploying Ethos‑U55 NPU software on the RZ/G3E, a heterogeneous SoC with Cortex‑A55 and Cortex‑M33 cores.
+It enables low‑power AI inference and efficient hybrid computing for edge AI applications.
+
 - **HTML5 Package**  
 HTML5 enables rich HMI development based on advanced Web technologies including JavaScript.
 
