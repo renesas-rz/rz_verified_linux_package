@@ -9,8 +9,6 @@ repo_url: https://github.com/renesas-rz/rz_verified_linux_package
 nav:
   # - Guidelines: guidelines/index.md
   - Home: index.md
-  # - Getting Started: getting_started/index.md
-  # - Appendix: appendix/index.md
 
 theme:
   name: materialx
@@ -124,11 +122,8 @@ plugins:
       glob:
         - _*
         # - guidelines/_*/*
-        # - guidelines/*
-        # - getting_started/_*/*
-        # - evk/_*/*
+        - guidelines/*
         - history/_*/*
-        # - appendix/_*/*
   - glightbox
   - include-markdown
   # - mkdocs-video
