@@ -121,9 +121,9 @@ plugins:
   - exclude:
       glob:
         - _*
+        - "*/_*"
         # - guidelines/_*/*
         - guidelines/*
-        - history/_*/*
   - glightbox
   - include-markdown
   # - mkdocs-video
